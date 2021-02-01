@@ -1,0 +1,36 @@
+{
+	"mobiles":[
+		{
+			"name":"realme x2",
+			"image":"img/1.jpg",
+			"originalprice":17501,
+			"price":17500
+
+		},{
+			"name":"oneplus 8",
+			"image":"img/2.png",
+			"originalprice":55600,
+			"price":55500
+		},{
+			"name":"samsung note 10",
+			"image":"img/3.jpg",
+			"originalprice":60550,
+			"price":60500
+		},{
+			"name":"apple 11 max pro",
+			"image":"img/4.jpg",
+			"originalprice":107000,
+			"price":107000
+		},{
+			"name":"remi note 10",
+			"image":"img/5.jpeg",
+			"originalprice":35000,
+			"price":30000
+		},{
+			"name":"realme 7 pro",
+			"image":"img/6.jpg",
+			"originalprice":17501,
+			"price":17500
+		}
+	]
+}
